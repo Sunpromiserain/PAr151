@@ -1,0 +1,7 @@
+[submodule "WAVES"]
+    path = WAVES
+    url = https://github.com/Sunpromiserain/WAVES.git
+
+[submodule "src/taming-transformers"]
+    path = src/taming-transformers
+    url = https://github.com/yourusername/taming-transformers.git
